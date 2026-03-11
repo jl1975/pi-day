@@ -10,11 +10,11 @@ Plataforma
 
 Instalació
 ==========
-Descarrega l'arxiu executable de la secció Releases i segueix les instruccions.
+Descarrega l'arxiu executable '.exe' de la secció Releases i segueix les instruccions.
 
 Ús
 ==
-Les instruccions d'ús es troben al Menú Ajuda->Instruccions de la finestra principal del programa.
+Un cop obert el programa, les instruccions d'ús es troben al Menú Ajuda->Instruccions de la finestra principal del programa.
 
 Licència
 ========
@@ -38,9 +38,10 @@ Any: 2021-2026
 
 Història
 ========
-Aquest software és l'evolució de l'original de J.L. Rubio de l'any 2017 en Visual Basic 6 i es troba en permanent fase de millora.
+Aquest software és l'evolució de l'original del mateix autor de l'any 2017 en Visual Basic 6 i es troba en permanent fase de millora.
 
 
 Descàrrega de responsabilitat
 =============================
+
 Aquest software es proporciona “tal qual”, sense garantia de cap tipus.
