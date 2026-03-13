@@ -15,6 +15,7 @@ Descarrega l'arxiu executable '.exe' de la secció Releases i segueix les instru
 Ús
 ==
 Un cop obert el programa, les instruccions d'ús es troben al Menú Ajuda->Instruccions de la finestra principal del programa.
+Videotutorial: https://youtu.be/HaH2LwuM1wY
 
 Licència
 ========
@@ -45,3 +46,4 @@ Descàrrega de responsabilitat
 =============================
 
 Aquest software es proporciona “tal qual”, sense garantia de cap tipus.
+
