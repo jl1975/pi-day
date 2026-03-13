@@ -1,12 +1,13 @@
 PI-DAY
 
-Aplicació educativa desenvolupada en Python i orientada a centres educatius i a particulars.
+Aplicació desenvolupada en Python i orientada a centres educatius i a particulars. Permet organitzar un concurs de memorització de decimals del nombre irracional Pi.
 
 Plataforma
 ==========
 - Sistema operatiu: Windows
 - Lenguatge: Python
 - Distribució: Instalador `.exe`
+- Idioma: Català
 
 Instalació
 ==========
@@ -44,6 +45,4 @@ Aquest software és l'evolució de l'original del mateix autor de l'any 2017 en 
 
 Descàrrega de responsabilitat
 =============================
-
 Aquest software es proporciona “tal qual”, sense garantia de cap tipus.
-
